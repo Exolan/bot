@@ -31,6 +31,8 @@
    7. Нажмите Execute и убедитесь, что установка всех зависимостей прошло успешно. Нажимайте Finish
    8. В окне Installation Complete уберите галочку с Start MySQL Shell after setup, так как он нам дальше не понадобится
 
+      (*Пример гайда по установке MySQL на Windows можно посмотреть [здесь](https://rutube.ru/video/9421738a71b7b57a12aaf711cb96fd94/)*)
+
    **Создание базы данный MySQL**:
    
    1. После установки MySQL у вас запустится MySQL Workbench. Нажмите на Local instance MySQL80 и введите пароль от пользователя root
